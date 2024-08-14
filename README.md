@@ -11,4 +11,6 @@ https://github.com/oscaritogf/encriptador.website/blob/main/imagenes/dise%C3%B1o
 - Capturando eventos con JavaScript
 
 https://oscaritogf.github.io/encriptador.website/
+vistaprevia![Captura de pantalla 2024-06-17 210323](https://github.com/user-attachments/assets/783cb0a3-1f56-4f59-8b32-13891ef00f7c)
+
 
